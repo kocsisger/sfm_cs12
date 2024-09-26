@@ -2,3 +2,4 @@ alma
 korte
 banán
 meggy
+eper
