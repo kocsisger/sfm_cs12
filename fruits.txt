@@ -3,3 +3,4 @@ korte
 banán
 meggy
 eper
+kivi
